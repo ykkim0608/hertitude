@@ -35,5 +35,7 @@ hertitude webpage for the windows user
 6. git clone 
 
    git clone https://github.com/ykkim0608/hertitude.git
-   cd hertitude 
+   
+   cd hertitude
+   
    npm install
