@@ -7,11 +7,15 @@ hertitude webpage for the windows user
 4. After installation,  create a website, and Node.js is required.
 
    a. Start menu → search for PowerShell → right-click → “Run as administrator.”
+
    b. install 
        winget install -e --id OpenJS.NodeJS.LTS
+
    c. Run the webpage.
        http://localhost:5173
+
    d. The command to run it again (only need to run it once).
+   
  6. Command to run the webpage.
    a. move to project folder 
       cd <project folder> 
