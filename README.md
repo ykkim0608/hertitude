@@ -9,18 +9,23 @@ hertitude webpage for the windows user
    a. Start menu → search for PowerShell → right-click → “Run as administrator.”
 
    b. install 
-       winget install -e --id OpenJS.NodeJS.LTS
+
+      winget install -e --id OpenJS.NodeJS.LTS
 
    c. Run the webpage.
-       http://localhost:5173
+
+      http://localhost:5173
 
    d. The command to run it again (only need to run it once).
    
- 5. Command to run the webpage.
+ 6. Command to run the webpage.
 
    a. move to project folder 
+      
       cd <project folder> 
+      
       npm run dev
   
   b. run web page 
+      
       http://localhost:5173
