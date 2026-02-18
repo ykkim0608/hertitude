@@ -19,8 +19,8 @@ hertitude webpage for the windows user
    d. The command to run it again (only need to run it once).
 
       Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-   
- 6. Command to run the webpage.
+
+ 5.Command to run the webpage.
 
    a. move to project folder 
       
@@ -28,6 +28,6 @@ hertitude webpage for the windows user
       
       npm run dev
   
-  b. run web page 
+   b. run web page 
       
       http://localhost:5173
