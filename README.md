@@ -20,7 +20,7 @@ hertitude webpage for the windows user
 
       Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
- 5.Command to run the webpage.
+ 5. Command to run the webpage.
 
    a. move to project folder 
       
@@ -31,3 +31,9 @@ hertitude webpage for the windows user
    b. run web page 
       
       http://localhost:5173
+
+6. git clone 
+
+   git clone https://github.com/ykkim0608/hertitude.git
+   cd hertitude 
+   npm install
