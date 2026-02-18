@@ -16,9 +16,11 @@ hertitude webpage for the windows user
 
    d. The command to run it again (only need to run it once).
    
- 6. Command to run the webpage.
+ 5. Command to run the webpage.
+
    a. move to project folder 
       cd <project folder> 
       npm run dev
+  
   b. run web page 
       http://localhost:5173
