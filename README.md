@@ -39,3 +39,5 @@ hertitude webpage for the windows user
    cd hertitude
    
    npm install
+
+   npm run dev
