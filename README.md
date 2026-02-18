@@ -17,6 +17,8 @@ hertitude webpage for the windows user
       http://localhost:5173
 
    d. The command to run it again (only need to run it once).
+
+      Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
    
  6. Command to run the webpage.
 
