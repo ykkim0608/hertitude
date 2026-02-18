@@ -5,6 +5,7 @@ hertitude webpage for the windows user
 2. Download for x64 download  (windows)
 3. And I installed it by clicking the .exe file.
 4. After installation,  create a website, and Node.js is required.
+
    a. Start menu → search for PowerShell → right-click → “Run as administrator.”
    b. install 
        winget install -e --id OpenJS.NodeJS.LTS
